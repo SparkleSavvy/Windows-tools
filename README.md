@@ -4,7 +4,7 @@ This list will still be updated, everything on this list will be available for d
 ### Windows customization:
 [Microsoft Activation Scripts (MAS)](https://github.com/DEADS1KE/Windows-tools/releases/tag/mas) - Free and permanent activating your Windows
 
-[StartAllBlack](https://www.startallback.com/download.php) (Official website) - Custom start menu and taskbar
+[StartAllBlack](https://www.startallback.com/download.php) (Direct download) - Custom start menu and taskbar
 
 [Win10Tweaker](https://github.com/DEADS1KE/Windows-tools/releases/tag/win10tweaker) - A set of tweaks of Windows
 
@@ -19,7 +19,7 @@ This list will still be updated, everything on this list will be available for d
 
 [Qbittorrent](https://github.com/DEADS1KE/Windows-tools/releases/tag/qbittorrent) - Excellent torrent client that does not contain malware
 
-[OBS-Studio](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.0-Windows-Installer.exe) (Official website) - The best program for recording and live broadcasting
+[OBS-Studio](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.0-Windows-Installer.exe) (Direct download) - The best program for recording and live broadcasting
 
 > [!WARNING]
 > Use it at your own risk. [StartAllBlack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for StartAllBlack
