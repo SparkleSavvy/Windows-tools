@@ -16,4 +16,4 @@ This list will still be updated, everything on this list will be available for d
 [Qbittorrent](https://github.com/DEADS1KE/Windows-tools/releases/tag/qbittorrent) - Excellent torrent client that does not contain malware
 
 > [!WARNING]
-> Use it at your own risk. [StartAllBlack Utility - Activator for StartAllBlack](https://github.com/Aetherinox/startallback-utility)
+> Use it at your own risk. [StartAllBlack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for StartAllBlack
