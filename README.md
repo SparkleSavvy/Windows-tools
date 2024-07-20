@@ -19,5 +19,7 @@ This list will still be updated, everything on this list will be available for d
 
 [Qbittorrent](https://github.com/DEADS1KE/Windows-tools/releases/tag/qbittorrent) - Excellent torrent client that does not contain malware
 
+[OBS-Studio](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.0-Windows-Installer.exe) (Official website) - The best program for recording and live broadcasting
+
 > [!WARNING]
 > Use it at your own risk. [StartAllBlack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for StartAllBlack
