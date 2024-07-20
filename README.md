@@ -6,7 +6,7 @@ This list will still be updated, everything on this list will be available for d
 
 [StartAllBlack](https://www.startallback.com/download.php) - Custom start menu and taskbar
 
-[Win10Tweaker]() - A set of tweaks of Windows
+[Win10Tweaker](https://github.com/DEADS1KE/Windows-tools/releases/tag/Win10Tweaker) - A set of tweaks of Windows
 
 ### Cool tools on Windows:
 [MPC-HC]() - A handy video player that supports most formats
