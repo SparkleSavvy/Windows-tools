@@ -10,6 +10,8 @@ This list will still be updated, everything on this list will be available for d
 
 [MiniBin](https://github.com/DEADS1KE/Windows-tools/releases/tag/MiniBin) - Small shopping cart in the taskbar
 
+[TranculentTB](https://github.com/TranslucentTB/TranslucentTB/releases/latest) - Custom visual appearance of the taskbar
+
 ### Cool tools on Windows:
 [MPC-HC](https://github.com/DEADS1KE/Windows-tools/releases/tag/MPC-HC) - A handy video player that supports most formats
 
