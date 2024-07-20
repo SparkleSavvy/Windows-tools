@@ -8,10 +8,12 @@ This list will still be updated, everything on this list will be available for d
 
 [Win10Tweaker](https://github.com/DEADS1KE/Windows-tools/releases/tag/Win10Tweaker) - A set of tweaks of Windows
 
-### Cool tools on Windows:
-[MPC-HC]() - A handy video player that supports most formats
+[MiniBin](https://github.com/DEADS1KE/Windows-tools/releases/tag/MiniBin) - Small shopping cart in the taskbar
 
-[Qbittorrent]() - Excellent torrent client that does not contain malware
+### Cool tools on Windows:
+[MPC-HC](https://github.com/DEADS1KE/Windows-tools/releases/tag/MPC-HC) - A handy video player that supports most formats
+
+[Qbittorrent](https://github.com/DEADS1KE/Windows-tools/releases/tag/qbittorrent) - Excellent torrent client that does not contain malware
 
 > [!WARNING]
 > Use it at your own risk. [StartAllBlack Utility - Activator for StartAllBlack](https://github.com/Aetherinox/startallback-utility)
