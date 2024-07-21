@@ -23,7 +23,7 @@ This list will still be updated, everything on this list will be available for d
 
 [Vencord](https://github.com/DEADS1KE/Windows-tools/releases/tag/vencord) - Mod on discord with support for plugins and themes, as well as the ability to install OpenAsar
 
-[Uspcayl]() - Unlimited AI upscaler with support for custom models.
+[Uspcayl](https://github.com/DEADS1KE/Windows-tools/releases/tag/upscayl) - Unlimited AI upscaler with support for custom models.
 
 > [!WARNING]
 > Use it at your own risk. [StartAllBlack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for StartAllBlack
