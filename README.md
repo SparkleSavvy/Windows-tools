@@ -29,7 +29,7 @@ This list will still be updated, everything on this list will be available for d
 
 [Notepad++](https://notepad-plus-plus.org/downloads/) (Official download page) - Cool program for editing various text files such as txt, xml and so on
 
-[Soundpad](https://github.com/SparkleSavvy/Windows-tools/releases/tag/soundpad) - A handy tool to play sounds into the voice chat of any game or discord.
+[Soundpad](https://github.com/SparkleSavvy/Windows-tools/releases/tag/soundpad) - A handy tool to play sounds into the voice chat of any game or discord
 
 > [!WARNING]
 > Use it at your own risk. [StartAllBlack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for StartAllBlack
