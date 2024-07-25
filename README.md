@@ -27,5 +27,7 @@ This list will still be updated, everything on this list will be available for d
 
 [Extreme Injector](https://github.com/SparkleSavvy/Windows-tools/releases/tag/extremeinjector) - great dll cheats injector without malware when
 
+[Notepad++](https://notepad-plus-plus.org/downloads/) (Official download page) - Cool program for editing various text files such as txt, xml and so on
+
 > [!WARNING]
 > Use it at your own risk. [StartAllBlack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for StartAllBlack
