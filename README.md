@@ -14,6 +14,8 @@ This list will still be updated, everything on this list will be available for d
 
 [Process hacker 2](https://github.com/DEADS1KE/Windows-tools/releases/tag/processhacker2) - Improved Task Manager
 
+[xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy/releases/latest) - Disables Microsoft's surveillance
+
 ### Cool tools on Windows:
 [MPC-HC](https://github.com/DEADS1KE/Windows-tools/releases/tag/mpc-hc) - A handy video player that supports most formats
 
