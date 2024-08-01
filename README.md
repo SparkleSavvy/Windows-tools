@@ -33,7 +33,7 @@ This list will still be updated, everything on this list will be available for d
 
 [Soundpad](https://github.com/SparkleSavvy/Windows-tools/releases/tag/soundpad) - A handy tool to play sounds into the voice chat of any game or discord
 
-[Scrcpy](https://github.com/Genymobile/scrcpy/releases/latest) (Official download page) - Convenient program for outputting and controlling android smartphone display
+[Scrcpy](https://github.com/Genymobile/scrcpy/releases/latest) - Convenient program for outputting and controlling android smartphone display
 
 [FxSound](https://github.com/fxsound2/fxsound-app/releases/latest) (Official download page) - Great equalizer for free
 
