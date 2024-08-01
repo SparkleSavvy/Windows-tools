@@ -35,7 +35,7 @@ This list will still be updated, everything on this list will be available for d
 
 [Scrcpy](https://github.com/Genymobile/scrcpy/releases/latest) - Convenient program for outputting and controlling android smartphone display
 
-[FxSound](https://github.com/fxsound2/fxsound-app/releases/latest) (Official download page) - Great equalizer for free
+[FxSound](https://github.com/fxsound2/fxsound-app/releases/latest) - Great equalizer for free
 
 > [!WARNING]
 > Use it at your own risk. [StartAllBlack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for StartAllBlack
