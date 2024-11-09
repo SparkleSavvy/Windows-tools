@@ -43,4 +43,4 @@ This list will still be updated, everything on this list will be available for d
 
 > [!WARNING]
 > Use it at your own risk. [StartAllBlack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for Star AllBlack
-> Or download from my releases [here](https://github.com/SparkleSavvy/Windows-tools/releases/tag/startallblackutility)
+> / Or download from my releases [here](https://github.com/SparkleSavvy/Windows-tools/releases/tag/startallblackutility)
