@@ -37,9 +37,9 @@ This list will still be updated, everything on this list will be available for d
 
 [FxSound](https://github.com/fxsound2/fxsound-app/releases/latest) - Great equalizer for free
 
-[NVCleanstall](https://github.com/SparkleSavvy/releases/tag/nvcleanstall) - Clean installation for NVIDIA drivers - Deep and fast search files
+[NVCleanstall](https://github.com/SparkleSavvy/Windows-tools/releases/tag/nvcleanstall) - Clean installation for NVIDIA drivers - Deep and fast search files
 
-[Everything](https://github.com/SparkleSavvy/releases/tag/everything) - Deep and fast search files
+[Everything](https://github.com/SparkleSavvy/Windows-tools/releases/tag/everything) - Deep and fast search files
 
 > [!WARNING]
 > Use it at your own risk. [StartAllBlack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for StartAllBlack
