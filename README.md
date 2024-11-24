@@ -4,6 +4,8 @@ This list will still be updated, everything on this list will be available for d
 ### Windows customization:
 [Microsoft Activation Scripts (MAS)](https://github.com/SparkleSavvy/Windows-tools/releases/tag/mas) - Free and permanent activating your Windows
 
+[Edge Remover](https://github.com/he3als/EdgeRemover) - For remove Edge browser from your Windows
+
 [StartAllBlack](https://www.startallback.com/download.php) (Direct download) - Custom start menu and taskbar
 
 [Win10Tweaker](https://github.com/SparkleSavvy/Windows-tools/releases/tag/win10tweaker) - A set of tweaks of Windows
