@@ -43,7 +43,7 @@ This list will still be updated, everything on this list will be available for d
 
 [Everything](https://github.com/SparkleSavvy/Windows-tools/releases/tag/everything) - Deep and fast search files
 
-[Open Video Downloader]() - A program for downloading videos from online resources, works great with YouTube. 
+[Open Video Downloader](https://github.com/SparkleSavvy/Windows-tools/releases/tag/openvideodownloader) - A program for downloading videos from online resources, works great with YouTube. 
 
 > [!WARNING]
 > Use it at your own risk. [StartAllBack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for Star AllBlack
