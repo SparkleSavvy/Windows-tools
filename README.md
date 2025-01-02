@@ -1,50 +1,41 @@
-# 🌵 Best Windows tools
-This list will still be updated, everything on this list will be available for download on the [releases](https://github.com/DEADS1KE/Windows-tools/releases) page or on the official website.
+# 🌵 Best Windows Tools
 
-### Windows customization:
-[Microsoft Activation Scripts (MAS)](https://github.com/SparkleSavvy/Windows-tools/releases/tag/mas) - Free and permanent activating your Windows
+This list is a curated collection of excellent tools for enhancing your Windows experience. It will continue to be updated. You can find downloads for most of these tools either on the [releases](https://github.com/DEADS1KE/Windows-tools/releases) page or on their respective official websites.
 
-[Edge Remover](https://github.com/he3als/EdgeRemover) - For remove Edge browser from your Windows
+## 🪟 Windows Customization
 
-[StartAllBlack](https://www.startallback.com/download.php) (Direct download) - Custom start menu and taskbar
+These tools help you personalize and tweak your Windows operating system:
 
-[Win10Tweaker](https://github.com/SparkleSavvy/Windows-tools/releases/tag/win10tweaker) - A set of tweaks of Windows
+| Tool                     | Description                                                                 | Download                                                                                       |
+| ------------------------ | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Microsoft Activation Scripts (MAS)** | Free and permanent Windows activation.                               | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/mas)                   |
+| **Edge Remover**         | Remove the Edge browser from your Windows installation.                    | [GitHub](https://github.com/he3als/EdgeRemover)                                                 |
+| **StartAllBack**         | Customize your start menu and taskbar.                                    | [Official Website (Direct Download)](https://www.startallback.com/download.php) |
+| **Win10Tweaker**          | A comprehensive set of tweaks for Windows.                                 | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/win10tweaker)           |
+| **MiniBin**              | A compact recycle bin residing in your taskbar.                           | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/minibin)                |
+| **TranslucentTB**        | Achieve a visually appealing, translucent taskbar.                      | [GitHub Releases](https://github.com/TranslucentTB/TranslucentTB/releases/latest)            |
+| **Process Hacker 2**      | An enhanced Task Manager with advanced features.                          | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/processhacker2)        |
+| **xd-AntiSpy**          | Disable Microsoft's built-in telemetry and tracking features.           | [GitHub Releases](https://github.com/builtbybel/xd-AntiSpy/releases/latest)                  |
+| **StartAllBack Utility** | Activator for StartAllBack. (**Use with caution!**)                        | [GitHub](https://github.com/Aetherinox/startallback-utility) or [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/startallblackutility) |
 
-[MiniBin](https://github.com/SparkleSavvy/Windows-tools/releases/tag/minibin) - Small shopping cart in the taskbar
+## 🛠️ Cool Tools for Windows
 
-[TranculentTB](https://github.com/TranslucentTB/TranslucentTB/releases/latest) - Custom visual appearance of the taskbar
+These are useful utilities that enhance productivity and entertainment on Windows:
 
-[Process hacker 2](https://github.com/SparkleSavvy/Windows-tools/releases/tag/processhacker2) - Improved Task Manager
-
-[xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy/releases/latest) - Disables Microsoft's surveillance
-
-### Cool tools on Windows:
-[MPC-HC](https://github.com/SparkleSavvy/Windows-tools/releases/tag/mpc-hc) - A handy video player that supports most formats
-
-[Qbittorrent](https://github.com/SparkleSavvy/Windows-tools/releases/tag/qbittorrent) - Excellent torrent client that does not contain malware
-
-[OBS-Studio](https://github.com/obsproject/obs-studio/releases/latest) - The best program for recording and live broadcasting
-
-[Vencord](https://github.com/SparkleSavvy/Windows-tools/releases/tag/vencord) - Mod on discord with support for plugins and themes, as well as the ability to install OpenAsar
-
-[Uspcayl](https://github.com/SparkleSavvy/Windows-tools/releases/tag/upscayl) - Unlimited AI upscaler with support for custom models.
-
-[Extreme Injector](https://github.com/SparkleSavvy/Windows-tools/releases/tag/extremeinjector) - great dll cheats injector without malware when
-
-[Notepad++](https://notepad-plus-plus.org/downloads/) (Official download page) - Cool program for editing various text files such as txt, xml and so on
-
-[Soundpad](https://github.com/SparkleSavvy/Windows-tools/releases/tag/soundpad) - A handy tool to play sounds into the voice chat of any game or discord
-
-[Scrcpy](https://github.com/Genymobile/scrcpy/releases/latest) - Convenient program for outputting and controlling android smartphone display
-
-[FxSound](https://github.com/fxsound2/fxsound-app/releases/latest) - Great equalizer for free
-
-[NVCleanstall](https://github.com/SparkleSavvy/Windows-tools/releases/tag/nvcleanstall) - Clean installation for NVIDIA drivers - Deep and fast search files
-
-[Everything](https://github.com/SparkleSavvy/Windows-tools/releases/tag/everything) - Deep and fast search files
-
-[Open Video Downloader](https://github.com/SparkleSavvy/Windows-tools/releases/tag/openvideodownloader) - A program for downloading videos from online resources, works great with YouTube. 
-
+| Tool                  | Description                                                                        | Download                                                                                               |
+| --------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **MPC-HC**            | A lightweight and versatile media player supporting a wide range of formats.         | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/mpc-hc)                        |
+| **qBittorrent**       | An excellent, open-source torrent client without ads or bloatware.              | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/qbittorrent)                   |
+| **OBS Studio**        | The go-to software for recording and live streaming.                               | [GitHub Releases](https://github.com/obsproject/obs-studio/releases/latest)                       |
+| **Vencord**          | A Discord mod with plugin and theme support, compatible with OpenAsar.            | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/vencord)                      |
+| **Upscayl**          | An AI-powered image upscaler with unlimited usage and custom model support.     | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/upscayl)                      |
+| **Extreme Injector** | A powerful DLL injector for games. (**Use responsibly!**)                         | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/extremeinjector)             |
+| **Notepad++**         | A feature-rich text and code editor.                                               | [Official Website](https://notepad-plus-plus.org/downloads/)                                       |
+| **Soundpad**          | Play sounds in voice chats in games or applications like Discord.                   | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/soundpad)                      |
+| **Scrcpy**            | Display and control your Android device from your Windows PC.                     | [GitHub Releases](https://github.com/Genymobile/scrcpy/releases/latest)                              |
+| **FxSound**           | A free and powerful sound equalizer.                                              | [GitHub Releases](https://github.com/fxsound2/fxsound-app/releases/latest)                          |
+| **NVCleanstall**       | Customize and streamline your NVIDIA driver installation.                          | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/nvcleanstall)                   |
+| **Everything**        | Lightning-fast file search utility.                                                | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/everything)                   |
+| **Open Video Downloader** | Download videos from various online platforms, including YouTube.                 | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/openvideodownloader)          |
 > [!WARNING]
-> Use it at your own risk. [StartAllBack Utility](https://github.com/Aetherinox/startallback-utility) - Activator for StartAllBlack
-> / Or download from my releases [here](https://github.com/SparkleSavvy/Windows-tools/releases/tag/startallblackutility)
+> **StartAllBack Utility:** Use the StartAllBack Utility with extreme caution. It is an activator and may carry risks. If you choose to use it, download it from my [releases page](https://github.com/SparkleSavvy/Windows-tools/releases/tag/startallblackutility) or the developer's [GitHub](https://github.com/Aetherinox/startallback-utility). Proceed at your own risk.
