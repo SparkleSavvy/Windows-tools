@@ -1,6 +1,6 @@
 # 🌵 Best Windows Tools
 
-This list is a curated collection of excellent tools for enhancing your Windows experience. It will continue to be updated. You can find downloads for most of these tools either on the [releases](https://github.com/DEADS1KE/Windows-tools/releases) page or on their respective official websites.
+This is a list of the best tools to improve your experience with Windows. It will be constantly updated. You can find downloads for most of these tools either on the [releases](https://github.com/DEADS1KE/Windows-tools/releases) page or on their official websites.
 
 ## 🪟 Windows Customization
 
