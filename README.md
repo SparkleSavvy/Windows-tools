@@ -38,6 +38,6 @@ These are useful utilities that enhance productivity and entertainment on Window
 | **Everything**        | Lightning-fast file search utility.                                                | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/everything)                      |
 | **Open Video Downloader** | Download videos from various online platforms, including YouTube.              | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/openvideodownloader)             |
 | **YoutubeGO**         | Downloading any video from Youtube for free and more.                              | [GitHub Releases](https://github.com/Efeckc17/YoutubeGO/releases/latest)                               |
-| **VMware Workstation Pro | Tool for creating and use Virtual Machines on your PC.                          | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/vmwareworkstationpro)
+| **VMware Workstation Pro** | Tool for creating and use Virtual Machines on your PC.                          | [Releases](https://github.com/SparkleSavvy/Windows-tools/releases/tag/vmwareworkstationpro)
 > [!WARNING]
 > **StartAllBack Utility:** Use the StartAllBack Utility with extreme caution. It is an activator and may carry risks. If you choose to use it, download it from my [releases page](https://github.com/SparkleSavvy/Windows-tools/releases/tag/startallblackutility) or the developer's [GitHub](https://github.com/Aetherinox/startallback-utility). Proceed at your own risk.
