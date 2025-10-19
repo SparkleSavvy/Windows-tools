@@ -1,7 +1,5 @@
 <h1 align="center">🌵 Best Windows Tools</h1>
 
-> I have been feeling unwell and depressed for the past 2-3 years, so updates and changes in my projects may be delayed. I am truly sorry.
-
 This is a list of the best tools to improve your experience with Windows. It will be constantly updated. You can find downloads for most of these tools either on the [releases](https://github.com/DEADS1KE/Windows-tools/releases) page or on their official websites.
 
 ## 🪟 Windows Customization
